@@ -60,7 +60,7 @@
 
 .b1 {
     height: 18.5rem;
-    width: 0.6rem;
+    width: 0.3rem;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
     background-color: chocolate;
@@ -71,7 +71,7 @@
 
 .b2 {
     height: 16rem;
-    width: 0.6rem;
+    width: 0.3rem;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
     background-color: chocolate;
@@ -82,7 +82,7 @@
 
 .b3 {
     height: 10rem;
-    width: 0.6rem;
+    width: 0.3rem;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
     background-color: chocolate;
@@ -93,7 +93,7 @@
 
 .b4 {
     height: 9.5rem;
-    width: 0.6rem;
+    width: 0.3rem;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
     background-color: chocolate;
@@ -104,7 +104,7 @@
 
 .b5 {
     height: 15rem;
-    width: 0.6rem;
+    width: 0.3rem;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
     background-color: chocolate;
@@ -115,7 +115,7 @@
 
 .b6 {
     height: 5rem;
-    width: 0.6rem;
+    width: 0.3rem;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
     background-color: chocolate;
@@ -126,7 +126,7 @@
 
 .b7 {
     height: 10rem;
-    width: 0.6rem;
+    width: 0.3rem;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
     background-color: chocolate;
@@ -137,7 +137,7 @@
 
 .b8 {
     height: 2rem;
-    width: 0.6rem;
+    width: 0.3rem;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
     background-color: chocolate;
@@ -148,7 +148,7 @@
 
 .b9 {
     height: 13.4rem;
-    width: 0.6rem;
+    width: 0.3rem;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
     background-color: chocolate;
@@ -159,7 +159,7 @@
 
 .b10 {
     height: 8rem;
-    width: 0.6rem;
+    width: 0.3rem;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
     background-color: chocolate;
@@ -170,7 +170,7 @@
 
 .b11 {
     height: 17rem;
-    width: 0.6rem;
+    width: 0.3rem;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
     background-color: chocolate;
@@ -181,11 +181,143 @@
 
 .b12 {
     height: 5rem;
-    width: 0.6rem;
+    width: 0.3rem;
     border-top-right-radius: 10px;
     border-top-left-radius: 10px;
     background-color: chocolate;
     position: absolute;
     top: 17.5rem;
     left: 31.5rem;
+}
+
+.c1 {
+    height: 15rem;
+    width: 0.3rem;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: indigo;
+    position: absolute;
+    top: 7.5rem;
+    left: 4.5rem;
+}
+
+.c2 {
+    height: 10rem;
+    width: 0.3rem;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: indigo;
+    position: absolute;
+    top: 12.5rem;
+    left: 6.7rem;
+}
+
+.c3 {
+    height: 8.5rem;
+    width: 0.3rem;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: indigo;
+    position: absolute;
+    top: 14rem;
+    left: 9.2rem;
+}
+
+.c4 {
+    height: 12rem;
+    width: 0.3rem;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: indigo;
+    position: absolute;
+    top: 10.5rem;
+    left: 11.9rem;
+}
+
+.c5 {
+    height: 7.5rem;
+    width: 0.3rem;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: indigo;
+    position: absolute;
+    top: 15rem;
+    left: 14.5rem;
+}
+
+.c6 {
+    height: 9rem;
+    width: 0.3rem;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: indigo;
+    position: absolute;
+    top: 13.5rem;
+    left: 17.2rem;
+}
+
+.c7 {
+    height: 15rem;
+    width: 0.3rem;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: indigo;
+    position: absolute;
+    top: 7.5rem;
+    left: 19.5rem;
+}
+
+.c8 {
+    height: 8rem;
+    width: 0.3rem;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: indigo;
+    position: absolute;
+    top: 14.5rem;
+    left: 22rem;
+}
+
+.c9 {
+    height: 10rem;
+    width: 0.3rem;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: indigo;
+    position: absolute;
+    top: 12.5rem;
+    left: 24.5rem;
+}
+
+.c10 {
+    height: 14rem;
+    width: 0.3rem;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: indigo;
+    position: absolute;
+    top: 8.5rem;
+    left: 27rem;
+}
+
+.c11 {
+    height: 18.8rem;
+    width: 0.3rem;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: indigo;
+    position: absolute;
+    top: 3.7rem;
+    left: 29.5rem;
+}
+
+.c12 {
+    height: 10rem;
+    width: 0.3rem;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    background-color: indigo;
+    position: absolute;
+    top: 12.5rem;
+    left: 32rem;
 }
